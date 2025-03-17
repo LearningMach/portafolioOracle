@@ -1,3 +1,9 @@
-## Proyecto ALURA
-1. Uso de html y ccs
-2. Conociendo mas del tema
+## Herramientas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+# segui el curso de Ana Garcia
